@@ -1,6 +1,6 @@
 # CrimsonGrid-XO
 
-**CrimsonGrid-XO** — a stylish, minimal Tic Tac Toe built with plain **HTML, CSS, and JavaScript**.  
+**CrimsonGrid-XO** — A stylish, minimal Tic Tac Toe built with plain **HTML, CSS, and JavaScript**.  
 Deep crimson aesthetics, sound effects, and a celebration animation make the classic game feel fresh.
 
 ---
