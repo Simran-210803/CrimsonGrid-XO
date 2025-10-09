@@ -38,4 +38,4 @@ This project is licensed under the **MIT License** — see the `LICENSE` file fo
 ---
 
 ## 👤 Author
-Simran — built with ❤️ | [GitHub](https://github.com/Simran-210803)
+Simran - [GitHub](https://github.com/Simran-210803)
