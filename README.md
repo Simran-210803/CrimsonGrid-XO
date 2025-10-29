@@ -33,7 +33,7 @@ This project contains `index.html`, `style.css`, `script.js`, and media files (`
 ---
 
 ## 🎮 Live Demo
-**[Play CrimsonGrid-XO]**👉[(https://img.shields.io/badge/Live-Demo-brightgreen)](https://simran-210803.github.io/CrimsonGrid-XO/)
+**Play CrimsonGrid-XO**👉[(https://img.shields.io/badge/Live-Demo-brightgreen)](https://simran-210803.github.io/CrimsonGrid-XO/)
 
 ---
 
