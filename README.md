@@ -32,10 +32,17 @@ This project contains `index.html`, `style.css`, `script.js`, and media files (`
 
 ---
 
+## Live demo
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://simran-210803.github.io/CrimsonGrid-XO/)
+
+---
+
 ## License
 This project is licensed under the **MIT License** — see the `LICENSE` file for details.
 
 ---
 
-## 👤 Author
-Simran - [GitHub](https://github.com/Simran-210803)
+## **Author** 
+**Simranpreet Kaur** 
+- simranpreet4248@gmail.com 
+- [GitHub](https://github.com/Simran-210803)
